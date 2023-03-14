@@ -1,5 +1,2 @@
-# test-repository
-this is a second example
-
-
-
+# my very first repo
+bye
